@@ -1,10 +1,5 @@
+4
+1
 2
-songa 10
-songb 20
-5 2
-songa
-songb
-songb
-songa
-songa
-40 55
+4
+8
