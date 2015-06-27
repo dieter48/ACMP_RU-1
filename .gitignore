@@ -45,3 +45,9 @@ Temporary Items
 *.vcxproj
 *.filters
 *.cache
+*.object
+*.obj
+*log
+*state
+*.pdb
+*.bi
